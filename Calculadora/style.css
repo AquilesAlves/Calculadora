@@ -16,7 +16,8 @@ html{
 
 body{
     align-items: center;
-    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4) no-repeat;
+    background-size: cover;
     display: flex;
     font-family: 'Dosis', sans-serif;
     font-display: swap;
